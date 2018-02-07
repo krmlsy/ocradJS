@@ -1,0 +1,2 @@
+# ocradJS
+OCR denemesidir
